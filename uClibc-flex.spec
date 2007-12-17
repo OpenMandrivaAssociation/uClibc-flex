@@ -22,7 +22,6 @@ Patch1:         flex-2.5.4-glibc22.patch
 Patch2:		flex-2.5.4-c++fixes.patch
 Requires:	uClibc
 BuildRequires:	byacc autoconf uClibc-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description 
 The flex program generates scanners. Scanners are
