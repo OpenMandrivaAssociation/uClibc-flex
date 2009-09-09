@@ -12,7 +12,7 @@
 Summary:	A tool for creating scanners (text pattern recognizers)
 Name:		uClibc-%{realname}
 Version:	2.5.4a
-Release:	%mkrel 7
+Release:	%mkrel 8
 License:	GPL
 Group:		Development/Other
 URL: 		http://www.gnu.org/software/flex/flex.htm
