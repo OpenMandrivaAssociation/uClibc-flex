@@ -15,7 +15,7 @@ Version:	2.5.4a
 Release:	%mkrel 8
 License:	GPL
 Group:		Development/Other
-URL: 		http://www.gnu.org/software/flex/flex.htm
+URL: 		https://www.gnu.org/software/flex/flex.htm
 Source:		ftp.gnu.org:/non-gnu/flex/flex-2.5.4a.tar.bz2
 Patch0:		flex-2.5.4a-skel.patch
 Patch1:         flex-2.5.4-glibc22.patch
